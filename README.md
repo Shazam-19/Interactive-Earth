@@ -8,7 +8,7 @@ A web page that gives an overview about github before jumping into site.
 git clone <this-repo>
 ```
 1. Open the folder with VS code 
-2. Open a new terminal and go into the Int-earth directory
+2. Open a new terminal and go to Int-earth directory
 3. Run these commands
 
 ```bash
